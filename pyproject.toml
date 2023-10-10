@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "atcoder"
+version = "3.11.2"
+description = "test"
+authors = ["ryota958 <kitabayashi.r.aa@m.titech.ac.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
